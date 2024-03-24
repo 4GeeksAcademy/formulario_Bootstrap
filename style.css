@@ -1,0 +1,11 @@
+.form__card {
+    display: flex;
+    justify-content: center;
+    width:18rem;
+    background-color: gray;
+    padding: .6rem;
+    border-radius: 4px;
+}
+.form__card i {
+    color: white;
+}
